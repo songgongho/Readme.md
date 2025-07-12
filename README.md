@@ -2,22 +2,7 @@
 
 충북대학교 / 대학원 / 산업인공지능학과
 
-1학기 전공과목
-
-
-(공통) 딥러닝 실제 - 전명근 교수님
-딥러닝 실제 : 파이썬과 텐서플로우를 이용한 딥러닝 시스템의 구현
-
-(심화) IoT 플랫폼과 IoT 장치 설계 - 김한진 교수님
-IoT 플랫폼과 IoT 장치 설계 : 아두이노, 라즈베이를 활용하여 IoT 시스템 설계 구축
-
-
-
-
-AI-Ex-30 포트폴리오 ( )
-
-
-# 안녕하세요, 산업의 문제를 정의하고 AI로 해결하는 기획자 겸 개발자 송공호입니다.
+# 안녕하세요, 산업의 문제를 정의하고 AI로 해결하는 기획자 송공호입니다.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtcXBwYWNuc3V2bGhzYnd0c3V2dmNqa2pkMHp4NWxjdnk4N3U4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDx80E/giphy.gif" width="100">
